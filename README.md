@@ -30,4 +30,4 @@ Driven by the intersection of **Deep Learning** and **Digital Marketing**, I bui
 ---
 
 ### 📊 GitHub Stats
-![Jonathon's GitHub stats]([Stats](./profile/stats.svg))
+![Jonathon's GitHub stats](./profile/stats.svg)
