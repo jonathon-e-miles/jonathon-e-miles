@@ -30,4 +30,4 @@ Driven by the intersection of **Deep Learning** and **Digital Marketing**, I bui
 ---
 
 ### 📊 GitHub Stats
-![Jonathon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathon-e-miles&show_icons=true&theme=tokyonight)
+![Jonathon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathon-e-miles&show_icons=true&theme=tokyonight&count_private=true)
