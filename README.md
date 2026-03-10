@@ -18,7 +18,7 @@ Driven by the intersection of **Deep Learning** and **Digital Marketing**, I bui
 * **Marketing:** AI-Driven Personalization, Predictive Modeling, Content Automation
 
 ## 🏆 Featured AI Projects
-*[**Tesla Automated Driving**](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects/tree/main/Tesla%20Automated%20Driving) - Computer Vision model for autonomous navigation.
+* [**Tesla Automated Driving**](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects/tree/main/Tesla%20Automated%20Driving) - Computer Vision model for autonomous navigation.
 * [**Video Classification**](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects/tree/main/Video%20Classification) - Deep Learning approach to temporal data analysis.
 * [**Census Income Classifier**](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects/tree/main/Census%20Income%20Classifier) - Predictive modeling using ensemble learning.
 
