@@ -1,24 +1,33 @@
 # Hi, I'm Jonathon Miles 👋
 
-### Marketing & AI Specialist | Deep Learning Enthusiast
-Bridging the gap between **Creative Content Strategy** and **Technical AI Engineering**. Currently completing a Post-Graduate Program in AI & Data Science at Purdue University.
-
-- 🤖 **Currently focusing on**: Computer Vision (YOLOv8) and Sequential Video Classification.
-- 📊 **Key Expertise**: Customer Segmentation (K-Means/PCA), NLP, and Predictive Analytics.
-- ✍️ **Background**: Summa Cum Laude in English from The Ohio State University.
+### AI Specialist & Content Strategist | Post-Grad AI @ Purdue University
+Driven by the intersection of **Deep Learning** and **Digital Marketing**, I build intelligent systems that transform complex data into actionable growth strategies.
 
 ---
 
-## 🚀 Featured AI Projects
+## 🚀 Professional Focus
+* **Deep Learning & Neural Networks:** Specializing in **CNN** (Convolutional Neural Networks) for Computer Vision and **GRU** (Gated Recurrent Units) for sequential data.
+* **Computer Vision:** Developing models for image recognition, object detection, and visual content analysis.
+* **Predictive Analytics:** Utilizing machine learning to forecast market trends and consumer behavior.
+* **Content Strategy:** Bridging the gap between technical AI implementation and high-level marketing narrative.
 
-### [Automated Driving Object Detection](link-to-repo)
-Engineered a YOLOv8 vehicle detection model achieving a **0.431 mAP50**.
-* **Tools**: PyTorch, Ultralytics, Transfer Learning.
+## 🛠 Tech Stack
+* **Languages:** Python, SQL
+* **Frameworks:** TensorFlow, Keras, PyTorch
+* **Tools:** OpenCV, Scikit-Learn, Pandas, NumPy
+* **Marketing:** AI-Driven Personalization, Predictive Modeling, Content Automation
 
-### [Sequential Video Classification](link-to-repo)
-Hybrid InceptionV3 + Bidirectional GRU model with Multi-head Attention.
-* **Tools**: PyTorch, OpenCV, Temporal Feature Extraction.
+## 🎓 Education & Certifications
+* **Post-Graduate Program in Artificial Intelligence** | Purdue University
+* **6+ Years of Marketing Experience** | Integrating data science into the marketing funnel
 
-### [Strategic Customer Segmentation](link-to-repo)
-Clustering 8,900+ users into behavioral personas for marketing ROI.
-* **Tools**: Scikit-Learn, K-Means, PCA, Seaborn.
+---
+
+## 📬 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jonathon-e-miles)
+- [Email](mailto:jonathon.e.miles@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+![Jonathon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathon-e-miles&show_icons=true&theme=tokyonight)
