@@ -12,15 +12,15 @@ Driven by the intersection of **Deep Learning** and **Digital Marketing**, I bui
 * **Content Strategy:** Bridging the gap between technical AI implementation and high-level marketing narrative.
 
 ## 🛠 Tech Stack
-   * **Languages: Python (Pandas, NumPy, Geopandas) | SQL (PostgreSQL, SQLite) | YAML
+   * **Languages:** Python (Pandas, NumPy, Geopandas) | SQL (PostgreSQL, SQLite) | YAML
 
-   * **AI & Machine Learning: TensorFlow | Keras | PyTorch | Scikit-Learn | YOLOv8 | LLM Evaluation
+   * **AI & Machine Learning:** TensorFlow | Keras | PyTorch | Scikit-Learn | YOLOv8 | LLM Evaluation
 
-   * **Data Engineering: ETL Pipeline Development | Systems Auditing | Automated Data Ingestion | GitHub Actions
+   * **Data Engineering:** ETL Pipeline Development | Systems Auditing | Automated Data Ingestion | GitHub Actions
 
-   * **Tools & Environments: Jupyter Notebooks | OpenCV | Git | Linux CLI | Virtual Environments
+   * **Tools & Environments:** Jupyter Notebooks | OpenCV | Git | Linux CLI | Virtual Environments
 
-   * **Professional Expertise: Nonpartisan Data Governance | Technical Writing | Cross-functional SME Collaboration
+   * **Professional Expertise:** Nonpartisan Data Governance | Technical Writing | Cross-functional SME Collaboration
     
 ## 🏆 Featured AI Projects
 * [**Tesla Automated Driving**](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects/tree/main/Tesla%20Automated%20Driving) - Computer Vision model for autonomous navigation.
