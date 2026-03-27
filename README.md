@@ -22,6 +22,16 @@ Driven by the intersection of **Deep Learning** and **Digital Marketing**, I bui
 * [**Video Classification**](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects/tree/main/Video%20Classification) - Deep Learning approach to temporal data analysis.
 * [**Census Income Classifier**](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects/tree/main/Census%20Income%20Classifier) - Predictive modeling using ensemble learning.
 
+🛡️ Data Governance & Privacy Standards
+
+In alignment with professional data ethics and security best practices, this repository does not host raw, proprietary, or sensitive datasets (including specific U.S. Census Bureau source files or internal corporate data).
+
+    Data Integrity: All workflows are designed to execute on standardized or anonymized sample data to ensure reproducibility without compromising privacy.
+
+    Security First: I maintain a strict policy against the public disclosure of API keys, PII (Personally Identifiable Information), or unencrypted data structures.
+
+    Audit-Ready: My notebooks prioritize "Data Legibility," providing a clear, documented path from raw ingestion to final analysis while maintaining absolute compliance with data governance standards.
+
 ## 🎓 Education & Certifications
 * **Post-Graduate Program in Artificial Intelligence** | Purdue University
 * **6+ Years of Marketing Experience** | Integrating data science into the marketing funnel
