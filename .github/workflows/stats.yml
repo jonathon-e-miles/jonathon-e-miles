@@ -10,8 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_TOKEN }}
-      
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
