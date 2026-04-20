@@ -1,51 +1,26 @@
-# Hi, I'm Jonathon Miles 👋
+# Jonathon Miles
+### Technical Operations | Marketing Systems | AI & Machine Learning
 
-### AI Specialist & Content Strategist | Post-Grad AI @ Purdue University
-Driven by the intersection of **Deep Learning** and **Digital Marketing**, I build intelligent systems that transform complex data into actionable growth strategies.
+I specialize in building the technical infrastructure that connects data-driven strategy to measurable business growth. My background combines 6+ years of digital marketing operations with formal training in Machine Learning (Purdue University) and Rhetorical Analysis (The Ohio State University).
 
----
-
-## 🚀 Professional Focus
-* **Deep Learning & Neural Networks:** Specializing in **CNN** (Convolutional Neural Networks) for Computer Vision and **GRU** (Gated Recurrent Units) for sequential data.
-* **Computer Vision:** Developing models for image recognition, object detection, and visual content analysis.
-* **Predictive Analytics:** Utilizing machine learning to forecast market trends and consumer behavior.
-* **Content Strategy:** Bridging the gap between technical AI implementation and high-level marketing narrative.
-
-## 🛠 Tech Stack
-   * **Languages:** Python (Pandas, NumPy, Geopandas) | SQL (PostgreSQL, SQLite) | YAML
-
-   * **AI & Machine Learning:** TensorFlow | Keras | PyTorch | Scikit-Learn | YOLOv8 | LLM Evaluation
-
-   * **Data Engineering:** ETL Pipeline Development | Systems Auditing | Automated Data Ingestion | GitHub Actions
-
-   * **Tools & Environments:** Jupyter Notebooks | OpenCV | Git | Linux CLI | Virtual Environments
-
-   * **Professional Expertise:** Nonpartisan Data Governance | Technical Writing | Cross-functional SME Collaboration
-    
-## 🏆 Featured AI Projects
-* [**Tesla Automated Driving**](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects/tree/main/Tesla%20Automated%20Driving) - Computer Vision model for autonomous navigation.
-* [**Video Classification**](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects/tree/main/Video%20Classification) - Deep Learning approach to temporal data analysis.
-* [**Census Income Classifier**](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects/tree/main/Census%20Income%20Classifier) - Predictive modeling using ensemble learning.
-
-### 🛡️ Data Governance & Privacy Standards
-
-In alignment with professional data ethics and security best practices, this repository does not host raw, proprietary, or sensitive datasets (including specific **U.S. Census Bureau** source files or internal corporate data). 
-
-* **Data Integrity:** All workflows are designed to execute on standardized or anonymized sample data to ensure **reproducibility** without compromising privacy.
-* **Security First:** I maintain a strict policy against the public disclosure of API keys, PII (Personally Identifiable Information), or unencrypted data structures.
-* **Audit-Ready:** My notebooks prioritize **"Data Legibility,"** providing a clear, documented path from raw ingestion to final analysis while maintaining absolute compliance with data governance standards.
-
-## 🎓 Education & Certifications
-* **Post-Graduate Program in Artificial Intelligence** | Purdue University
-* **6+ Years of Marketing Experience** | Integrating data science into the marketing funnel
+I focus on developing "Applied AI" solutions—moving beyond theory to build tools that automate brand compliance, segment high-value audiences, and optimize search visibility.
 
 ---
 
-## 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jonathon-e-miles)
-- [Email](mailto:jonathon.e.miles@gmail.com)
+### Core Technical Stack
+*   **Data & AI:** Python (Pandas, NumPy, Scikit-Learn), SQL, YOLOv8 (Computer Vision), K-Means Clustering, PCA.
+*   **Optimization:** Google Analytics 4 (GA4), SEMrush, Hotjar, Conversion Rate Optimization (CRO), GEO.
+*   **Systems:** HubSpot, WordPress, Google Cloud, GitHub Actions, HTML/CSS.
 
 ---
 
-### 📊 GitHub Stats
-![Jonathon's GitHub stats](https://raw.githubusercontent.com/jonathon-e-miles/jonathon-e-miles/main/profile/stats.svg)
+### Selected Impact
+*   **Technical Operations:** Built and optimized 10+ digital properties with a focus on Core Web Vitals and accessibility compliance.
+*   **AI Implementation:** Engineered a computer vision pipeline (YOLOv8) to automate brand auditing for 1,000+ media assets.
+*   **Marketing Intelligence:** Applied unsupervised learning to segment 8,900+ customer profiles into actionable behavioral personas.
+*   **Team Leadership:** Currently managing a team of 3 at MAXtech Agency, standardizing technical documentation and automating reporting workflows.
+
+---
+
+### Connections
+[LinkedIn](https://linkedin.com/in/jonathon-e-miles) | [GitHub Portfolio](https://github.com/jonathon-e-miles/AI-Machine-Learning-Projects) | [Email](mailto:jonathon.e.miles@gmail.com)
